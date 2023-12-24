@@ -1,0 +1,56 @@
+.aa{
+    display: inline-block;
+    padding: 15px;
+    border-radius: 50px;
+}
+.button{
+    background-color: red;
+    font-size: 20px;
+    padding-left: 90px;
+    padding-right: 90px;
+    text-align: center;
+    margin-left: 27px;
+    color: white;
+    border-radius: 20px;
+    
+
+}
+.button1{
+    background-color: red;
+    font-size: 20px;
+    padding-left: 90px;
+    padding-right: 90px;
+    text-align: center;
+    color: beige;
+    border-radius: 20px;
+    
+}
+#b1{
+    margin-left: 20px;
+}
+#b2{
+    margin-left: 25px;
+}
+#b3{
+    margin-left: 40px;
+}
+#b4{
+    margin-left: 40px;
+}
+#p1{
+margin-top: 200px;
+font-size: 80px;
+text-align: center;
+color: blue;
+}
+#p2{
+    margin-left: 550px;
+}
+#div1{
+    background-image: url("https://cdn.pixabay.com/photo/2017/10/22/20/42/table-2879213_640.jpg");
+    background-size: cover;
+}
+#div2{
+   background-image: url("https://i0.wp.com/www.onceuponachef.com/images/2018/08/Thai-Red-Curry-Chicken-1.jpg?resize=850%2C915&ssl=1");
+   background-size: cover;
+}
